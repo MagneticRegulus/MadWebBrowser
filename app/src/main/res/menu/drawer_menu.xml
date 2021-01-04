@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:id="@+id/navGroup" >
+        <item
+            android:id="@+id/homeItem"
+            android:icon="@drawable/baseline_home_24"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/backItem"
+            android:icon="@drawable/baseline_arrow_back_24"
+            android:title="@string/go_back" />
+        <item
+            android:id="@+id/forwardItem"
+            android:icon="@drawable/baseline_arrow_forward_24"
+            android:title="@string/go_forward" />
+        <item
+            android:id="@+id/historyItem"
+            android:icon="@drawable/baseline_history_24"
+            android:title="@string/history" />
+        <item
+            android:id="@+id/bookmarksItem"
+            android:icon="@drawable/baseline_bookmarks_24"
+            android:title="@string/bookmarks" />
+    </group>
+    <group android:id="@+id/settingGroup" >
+        <item
+            android:id="@+id/settingsItem"
+            android:icon="@drawable/baseline_settings_24"
+            android:title="@string/settings" />
+        <item
+            android:id="@+id/refreshItem"
+            android:icon="@drawable/baseline_refresh_24"
+            android:title="@string/refresh" />
+        <item
+            android:id="@+id/closeItem"
+            android:icon="@drawable/baseline_close_24"
+            android:title="@string/close_menu" />
+    </group>
+</menu>

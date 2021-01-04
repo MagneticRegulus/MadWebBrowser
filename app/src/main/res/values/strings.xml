@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MadWeb</string>
+    <string name="url_hint">Enter a Website</string>
+    <string name="button_text">Go</string>
+    <string name="open">Open Menu</string>
+    <string name="close">Close Menu</string>
+    <string name="menu_title">MadWeb</string>
+    <string name="home">Home</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="history">History</string>
+    <string name="settings">Settings</string>
+    <string name="refresh">Refresh</string>
+    <string name="close_menu">Close Menu</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="go_back">Go Back</string>
+    <string name="go_forward">Go Forward</string>
+    <string name="clear_history">Clear History</string>
+    <string name="delete_text">Delete Trash Can Icon</string>
+    <string name="add_bookmark_text">Add Current Page to Bookmarks</string>
+    <string name="remove_bookmark_text">Remove Current Page from Bookmarks</string>
+    <string name="empty_bookmark_text">Empty Bookmark Icon</string>
+    <string name="clear_bookmarks_text">Clear All Bookmarks</string>
+    <string name="update_homepage_text">Set Current Page as Homepage or Enter New</string>
+    <string name="homepage_input_text">Enter a New Homepage URL</string>
+    <string name="homepage_input_help_text">Enter a new homepage input</string>
+</resources>
